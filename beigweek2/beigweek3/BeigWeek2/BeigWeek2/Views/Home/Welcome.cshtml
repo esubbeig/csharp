@@ -1,0 +1,22 @@
+﻿@*
+    Created By Beig
+*@
+@{
+}
+@model BeigWeek2.Models.WelcomeModel
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Beig Welcome Page</title>
+    </head>
+    <body>
+        <h1>Beig Week 2 Welcome</h1>
+        <p>Hello and Welcome to @Model.Name</p>@*by referring to the model you are accessing the model
+            properties here
+        *@
+        <p>The number you entered is @Model.Number</p>
+        <p>The Square of the number is: @Model.GetSquare()</p>
+        <p>The Square root of the number is: @Model.GetRoot()</p>
+    </body>
+</html>

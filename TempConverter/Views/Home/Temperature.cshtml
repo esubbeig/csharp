@@ -1,0 +1,37 @@
+﻿@model TemperatureModel
+@*
+Created by Gopi
+FileName: Temperature.cshtml
+*@
+<h1>Paravastu Temperature Converter</h1>
+<form asp-action="Temperature" asp-controller="Home" method="post">
+    <p>
+        <label asp-for = "TemperatureUnit"> Convert Farenheit to Celcius</label>
+        <input asp-for = "TemperatureUnit" value="F2C" type = "radio"/>
+        <label asp-for = "TemperatureUnit" class="lspace">Convert Celcius to
+        Farenheit </label>
+        <input asp-for = "TemperatureUnit" value="C2F" type = "radio" />
+        <span asp-validation-for-"TemperatureUnit"></span>
+    </p>
+    
+    <p>
+        <label asp-for="Temperature"></label>
+        <input asp-for="Temperature" />
+        <span asp-validation-for-"Temperature"></span>
+    </p>
+    <p>
+        <button type="submit">Submit</button>
+    </p>
+</form>
+
+        @{
+            /*
+             * razor block
+             * The ViewBag.RoundTrip is created in [HttpPost]Temperature() method.
+             * If this has been set to RoundTrip, then it is a roundtrip--display the results.
+             */
+            if (ViewBag. RoundTrip == "RoundTrip")
+            {
+                <p>@Html.Raw(Model.ConvertTemp() )</p>
+            }//if
+          }

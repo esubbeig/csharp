@@ -1,0 +1,52 @@
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\appsettings.json
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\BeigTicketSales.staticwebassets.runtime.json
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\BeigTicketSales.exe
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\BeigTicketSales.deps.json
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\BeigTicketSales.runtimeconfig.json
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\BeigTicketSales.dll
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\BeigTicketSales.pdb
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.csproj.AssemblyReference.cache
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.AssemblyInfoInputs.cache
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.AssemblyInfo.cs
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.csproj.CoreCompileInputs.cache
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.RazorAssemblyInfo.cache
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.RazorAssemblyInfo.cs
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\scopedcss\bundle\BeigTicketSales.styles.css
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\scopedcss\projectbundle\BeigTicketSales.bundle.scp.css
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.dll
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\refint\BeigTicketSales.dll
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.pdb
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.genruntimeconfig.cache
+C:\Users\avita\OneDrive\Desktop\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\ref\BeigTicketSales.dll
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\appsettings.json
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\BeigTicketSales.staticwebassets.runtime.json
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\BeigTicketSales.exe
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\BeigTicketSales.deps.json
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\BeigTicketSales.runtimeconfig.json
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\BeigTicketSales.dll
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\bin\Debug\net6.0\BeigTicketSales.pdb
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.csproj.AssemblyReference.cache
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.AssemblyInfoInputs.cache
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.AssemblyInfo.cs
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.csproj.CoreCompileInputs.cache
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.RazorAssemblyInfo.cache
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.RazorAssemblyInfo.cs
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\scopedcss\bundle\BeigTicketSales.styles.css
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\scopedcss\projectbundle\BeigTicketSales.bundle.scp.css
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.dll
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\refint\BeigTicketSales.dll
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.pdb
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\BeigTicketSales.genruntimeconfig.cache
+C:\Users\avita\OneDrive\Desktop\Server Side\BeigTicketSales\BeigTicketSales\obj\Debug\net6.0\ref\BeigTicketSales.dll

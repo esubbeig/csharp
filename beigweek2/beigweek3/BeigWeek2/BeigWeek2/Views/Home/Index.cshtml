@@ -1,0 +1,30 @@
+﻿@*
+    Created By Beig
+*@
+@{
+}
+@model BeigWeek2.Models.WelcomeModel
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Beig Home Page</title>
+    </head>
+    <body>
+        <h1>Beig Week 2 Home</h1>
+        <form asp-controller="Home" asp-action="Index" method="post">
+            <p>
+                <lablel asp-for="Name">Enter Name: </lablel>
+                <input asp-for="Name" />
+            </p>
+
+            <p>
+                <lablel asp-for="Number">Enter an Integer: </lablel>
+                <input asp-for="Number" />
+            </p>
+            <p>
+                <button type="submit">Submit</button>
+            </p>
+        </form>
+    </body>
+</html>
